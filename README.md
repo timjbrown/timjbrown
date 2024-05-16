@@ -1,16 +1,11 @@
 ### Hi there 👋
-
-<!--
-**timjbrown/timjbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Demos:
+![](https://github.com/timjbrown/p1-sageguide.png)
+![](https://github.com/timjbrown/p2-natureclock.png)
+![](https://github.com/timjbrown/p3-phonetify.png)
+![](https://github.com/timjbrown/physics.gif)
+![](https://github.com/timjbrown/CardGame5.gif)
+![](https://github.com/timjbrown/CardGame6.gif)
+![](https://github.com/timjbrown/CardGame7.gif)
+![](https://github.com/timjbrown/CardGame9.gif)
+![](https://github.com/timjbrown/CardGame11-2.gif)
