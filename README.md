@@ -1,11 +1,19 @@
-### Hi there 👋
-Check out some of my project demos:
-![](https://github.com/timjbrown/timjbrown/p1-sageguide.png)
-![](https://github.com/timjbrown/timjbrown/p2-natureclock.png)
-![](https://github.com/timjbrown/timjbrown/p3-phonetify.png)
-![](https://github.com/timjbrown/timjbrown/physics.gif)
-![](https://github.com/timjbrown/timjbrown/CardGame5.gif)
-![](https://github.com/timjbrown/timjbrown/CardGame6.gif)
-![](https://github.com/timjbrown/timjbrown/CardGame7.gif)
-![](https://github.com/timjbrown/timjbrown/CardGame9.gif)
-![](https://github.com/timjbrown/timjbrown/CardGame11-2.gif)
+### Hey there 👋, enjoy some project demos from over the years!
+
+<img src="p1-sageguide.png" width="800">
+
+<img src="p2-natureclock.png" width="800" border="5">
+
+<img src="p3-phonetify.png" width="800">
+
+<img src="CardGame11-2.gif">
+
+<img src="CardGame9.gif">
+
+<img src="CardGame7.gif">
+
+<img src="CardGame6.gif">
+
+<img src="physics.gif">
+
+<video src="factions.mp4">
