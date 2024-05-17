@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, welcome to my github!</h1>
 
-## 👨‍💻 My skills
+## 💪 Some of my skills:
 <p>
   <img alt="java" src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=CoffeeScript&logoColor=white">
   <img alt="python" src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=white">
@@ -25,6 +25,7 @@
   <img alt="jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
   <img alt="gdscript" src="https://img.shields.io/badge/GDScript-%23478CBF?style=for-the-badge&logo=godot%20engine&logoColor=white">
   <img alt="lua" src="https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge&logo=lua&logoColor=white">
+  <img alt="actionscript" src="https://img.shields.io/badge/Actionscript-FF0000?style=for-the-badge&logo=adobe&logoColor=white">
   <img alt="shellscript" src="https://img.shields.io/badge/Shellscript-%235391FE?style=for-the-badge&logo=powershell&logoColor=white">
   <img alt="visual studio vode" src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
   <img alt="eclipse" src="https://img.shields.io/badge/Eclipse-%232C2255?style=for-the-badge&logo=Eclipse%20Ide&logoColor=white">
@@ -34,10 +35,9 @@
   <img alt="revenue cat" src="https://img.shields.io/badge/RevenueCat-ea5158?style=for-the-badge&logoColor=white">
 </p>
 
-## 🎨 My projects
+## 👨‍💻 Some of my projects:
 ## [Sage Guide](https://sageguide.netlify.app/) <img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/335803">
 <img src="p1-sageguide.png">
-
 <img src="sageguide.gif">
 
 ## [Nature Clock](https://tinyurl.com/natureclock)
@@ -48,11 +48,8 @@
 
 ## Board Game Studio
 <img src="CardGame11-2.gif">
-
 <img src="CardGame9.gif">
-
 <img src="CardGame7.gif">
-
 <img src="CardGame6.gif">
 
 ## Polygonal Physics
