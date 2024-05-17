@@ -38,6 +38,8 @@
 ## [Sage Guide](https://sageguide.netlify.app/) <img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/335803">
 <img src="p1-sageguide.png">
 
+<img src="sageguide.gif">
+
 ## [Nature Clock](https://tinyurl.com/natureclock)
 <img src="p2-natureclock.png" border="5">
 
