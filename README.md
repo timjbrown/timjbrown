@@ -49,11 +49,14 @@
 ## Board Game Studio
 <img src="CardGame11-2.gif">
 <img src="CardGame9.gif">
-<img src="CardGame7.gif">
-<img src="CardGame6.gif">
+<!-- <img src="CardGame7.gif"> -->
+<!-- <img src="CardGame6.gif"> -->
+
+## Goldblatt Systems
+<img src="goldblatt.png">
 
 ## Polygonal Physics
 <img src="physics.gif">
 
-## Factions
+## MOBA Game
 https://github.com/timjbrown/timjbrown/assets/25399749/de1b0317-402b-498d-bbe7-7c67e3ef6001
