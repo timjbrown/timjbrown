@@ -21,7 +21,7 @@
   <img alt="oracle sql" src="https://img.shields.io/badge/Oracle SQL-%23F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img alt="sqlite" src="https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=SQLite&logoColor=white">
-  <img alt="realm" src="https://img.shields.io/badge/MongoDB Realm-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img alt="realm" src="https://img.shields.io/badge/Realm-%2339477F?style=for-the-badge&logo=Realm&logoColor=white">
   <img alt="dbeaver" src="https://img.shields.io/badge/DBeaver-%23382923?style=for-the-badge&logo=DBeaver&logoColor=white">
   <img alt="rest" src="https://img.shields.io/badge/REST-%23000000?style=for-the-badge&logo=iCloud&logoColor=white">
   <img alt="json" src="https://img.shields.io/badge/JSON-%23000000?style=for-the-badge&logo=JSON&logoColor=white">
@@ -37,7 +37,7 @@
   <img alt="npm" src="https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img alt="jira" src="https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=Jira&logoColor=white">
   <img alt="jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-  <img alt="scrum" src="https://img.shields.io/badge/Scrum-%23000000?style=for-the-badge&logoColor=white">
+  <img alt="scrum" src="https://img.shields.io/badge/Scrum-%230052CC?style=for-the-badge&logo=Trello&logoColor=white">
   <img alt="gdscript" src="https://img.shields.io/badge/GDScript-%23478CBF?style=for-the-badge&logo=godot%20engine&logoColor=white">
   <img alt="actionscript" src="https://img.shields.io/badge/Actionscript-FF0000?style=for-the-badge&logo=adobe&logoColor=white">
   <img alt="shell script" src="https://img.shields.io/badge/Shell Script-%235391FE?style=for-the-badge&logo=powershell&logoColor=white">
@@ -48,8 +48,8 @@
   <img alt="eclipse" src="https://img.shields.io/badge/Eclipse-%232C2255?style=for-the-badge&logo=Eclipse%20Ide&logoColor=white">
   <img alt="intellij" src="https://img.shields.io/badge/IntelliJ-%23000000?style=for-the-badge&logo=Intellij IDEA&logoColor=white">
   <img alt="android studio" src="https://img.shields.io/badge/Android%20Studio-%2334A853?style=for-the-badge&logo=android&logoColor=white">
-  <img alt="chrome web store" src="https://img.shields.io/badge/Chrome%20Web%20Store-%234285F4?style=for-the-badge&logo=google%20Chrome&logoColor=white">
-  <img alt="google play store" src="https://img.shields.io/badge/Google%20Play%20Store-%234285F4?style=for-the-badge&logoColor=white">
+  <img alt="chrome web store" src="https://img.shields.io/badge/Chrome%20Web%20Store-%234285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=white">
+  <img alt="google play store" src="https://img.shields.io/badge/Google%20Play%20Store-%23414141?style=for-the-badge&logo=Google%20Play&logoColor=white">
   <img alt="revenue cat" src="https://img.shields.io/badge/RevenueCat-ea5158?style=for-the-badge&logoColor=white">
 </p>
 
