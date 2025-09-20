@@ -41,9 +41,9 @@
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 </p>
 <p>
-  <img alt="REST API" src="https://img.shields.io/badge/REST-000000?style=for-the-badge&logo=iCloud&logoColor=white">
+  <img alt="REST API" src="https://img.shields.io/badge/REST API-000000?style=for-the-badge&logo=iCloud&logoColor=white">
   <img alt="T-SQL" src="https://img.shields.io/badge/TSQL-003B57?style=for-the-badge&logoColor=white">
-  <img alt="PL/SQL" src="https://img.shields.io/badge/Oracle SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+  <img alt="PL/SQL" src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
   <img alt="sqlite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
   <img alt="ssms" src="https://img.shields.io/badge/SSMS-003B57?style=for-the-badge&logoColor=white">
