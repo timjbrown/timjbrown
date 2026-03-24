@@ -34,6 +34,7 @@
   <img alt="javascript" src="https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img alt="html" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="css" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white">
+  <img alt="astro" src="https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">
   <img alt="jquery" src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img alt="tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind%20Css&logoColor=white">
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
@@ -77,12 +78,12 @@
 -->
 
 ## 👨‍💻 Some projects:
-## [Sage Guide](https://sageguide.netlify.app/) <img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/335803">
+## [Sage Guide](https://sageguide.net/) <img alt="CurseForge Downloads" src="https://img.shields.io/curseforge/dt/335803">
 <img src="p1-sageguide.png">
 <img src="sageguide.gif">
 
 ## [Wheel of the Year Widget](https://play.google.com/store/apps/details?id=com.sage.natureclock)
-<img src="p2-natureclock.png" border="5">
+<img src="wheel-of-the-year-widget.png">
 
 ## [Phonetify](https://chromewebstore.google.com/detail/ginngbneckjdbhnkgblaccihjheaajbp) <img alt="Chrome Web Store Users" src="https://img.shields.io/chrome-web-store/users/ginngbneckjdbhnkgblaccihjheaajbp"> <img alt="Chrome Web Store Rating" src="https://img.shields.io/chrome-web-store/rating/ginngbneckjdbhnkgblaccihjheaajbp">
 <img src="p3-phonetify.png">
